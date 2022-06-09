@@ -1,0 +1,30 @@
+const double kRadius    = 5;
+const double kRadiusMd  = 8;
+const double kRadiusLg  = 12;
+const double kRadiusXL  = 16;
+const double kRadius2XL  = 20;
+const double kRadius3XL  = 25;
+const double kRadius4XL  = 35;
+
+const double font4XL    = 35;
+const double font3XL    = 28;
+const double font2XL    = 25;
+const double fontXL     = 23;
+const double fontL      = 20;
+const double font2Md     = 18;
+const double fontMd     = 14;
+const double fontSm     = 12;
+const double fontXs     = 10;
+const double font2Xs     = 7;
+const double font3Xs     = 5;
+
+const double margin3Xl  = 50;
+const double margin2Xl  = 40;
+const double marginXl   = 35;
+const double marginLg   = 30;
+const double marginMd   = 24;
+const double marginSm   = 16;
+const double marginXs   = 14;
+const double margin2Xs  = 12;
+const double margin3Xs  = 10;
+const double margin4Xs  = 5;
