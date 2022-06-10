@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655534614265",
+    "project_id": "fruitinventory-a6eb7",
+    "storage_bucket": "fruitinventory-a6eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655534614265:android:e473daf224e87e284ea428",
+        "android_client_info": {
+          "package_name": "com.ta.fi.fruits_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655534614265-fnddc2l9rl6ufeidfljddaaprjplp12j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ta.fi.fruits_inventory",
+            "certificate_hash": "a9b95a464aeff65a984a16498ea0b258303f9f64"
+          }
+        },
+        {
+          "client_id": "655534614265-l04715sv5ltvmer05bpgrgkicekciveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9F_yI7uDTjE1cafm2fuYATMjISU3ioNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655534614265-l04715sv5ltvmer05bpgrgkicekciveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
